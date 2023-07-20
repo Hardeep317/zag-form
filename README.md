@@ -21,6 +21,11 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 * To show file data if JSON.
 * To count entries and show them.
 
+## Requirements Achieved
+* Form UI.
+* File type validation.
+* Showing data of file if the file type is JSON.
+* Count entries and show them on UI.
 
 
 
